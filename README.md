@@ -9,4 +9,5 @@ The dataset contains 31k ID groups and 179k text-image pairs.
 
 Here is an example of an ID group in the dataset:
 
-![](images/1.png)
+
+<img src="images/1.png" width="60%" height="auto">
